@@ -1,5 +1,5 @@
 export default function GET(req, res) {
     return <div>
-        <span>Servidor RuleApp</span>
+        <span>Servidor RuleApp en funcionamiento</span>
     </div>
 };
